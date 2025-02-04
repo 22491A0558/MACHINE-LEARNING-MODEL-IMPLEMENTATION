@@ -29,4 +29,5 @@ Insights and conclusions based on the model’s performance.
 This project provides a solid foundation for applying machine learning to real-world classification tasks. 🚀
 
 #OUTPUTS
-
+![Image](https://github.com/user-attachments/assets/8139327c-5276-4587-a3bb-a507141dc770)
+![Image](https://github.com/user-attachments/assets/5f703b4b-ccf2-45b7-92ca-169399bce78d)
